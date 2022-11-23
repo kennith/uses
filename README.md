@@ -11,7 +11,8 @@ A not so detail apps and gear. Inspired by WesBos.
 - [iVPN](https://www.ivpn.net/) keeps me protected.
 
 ## Equipments
-- MacBook Pro M1
+- MacBookPro M1
+- [Anker USB C Hub, 341 USB-C Hub (7-in-1)](https://amzn.to/3XoELtI) (I like connecting all equipments with 1 USB C port)
 - Pixel 6
 - Pixel Buds
 - iPad
