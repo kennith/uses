@@ -1,18 +1,19 @@
 # Uses
-A not so detail apps and gear. Inspired by WesBos. 
+A not so detail apps and gear. Inspired by WesBos.
 
 ## Editor + Terminal
-- [SublimeText](https://www.sublimetext.com/) is my editor. It's because of its simplicity, the support from [Package Control](https://packagecontrol.io/), and the very good looking [fileicon](https://packagecontrol.io/packages/FileIcons%20Mono). 
-- Vi for quick editing and `git` stuff. My [.vimrc](https://github.com/kennith/dotfiles/blob/master/.vimrc) is very useful to me. 
-- I use the Terminal.app with Zsh and Oh My Zsh. 
+- [Visual Studio Code](https://code.visualstudio.com/) is now my editor of choice.
+- Vi for quick editing and `git` stuff. My [.vimrc](https://github.com/kennith/dotfiles/blob/master/.vimrc) is very useful to me.
+- I use the Terminal.app with [Zsh](https://www.zsh.org/) and [Oh My Zsh](https://ohmyz.sh/).
 
 ## Desktop Apps
-- [Todoist](https://todoist.com) keeps me on track and focus. 
+- [Todoist](https://todoist.com) keeps me on track and focus.
 - [iVPN](https://www.ivpn.net/) keeps me protected.
 
 ## Equipments
-- MacBook Pro for work.
-- Pixel 3a for mobility.
-- iPad for in between work and mobility. 
-
-## 
+- MacBook Pro M1
+- Pixel 6
+- Pixel Buds
+- iPad
+- [Logitech K381](https://a.co/d/hr8rvHR)
+- [Logitech M535](https://a.co/d/d71gXz1)
