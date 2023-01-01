@@ -13,8 +13,8 @@ A not so detail apps and gear. Inspired by WesBos.
 ## Equipments
 - MacBookPro M1
 - [Anker USB C Hub, 341 USB-C Hub (7-in-1)](https://amzn.to/3XoELtI) (I like connecting all equipments with 1 USB C port)
-- Pixel 6
+- Pixel 7
 - Pixel Buds
 - iPad
 - [Logitech K381](https://a.co/d/hr8rvHR)
-- [Logitech M535](https://a.co/d/d71gXz1)
+- [Logitech MX Master 3s for Mac](https://amzn.to/3WD0Yn0)
