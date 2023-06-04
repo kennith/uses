@@ -16,5 +16,5 @@ A not so detail apps and gear. Inspired by WesBos.
 - Pixel 7
 - Pixel Buds
 - iPad
-- [Logitech K381](https://a.co/d/hr8rvHR)
+- [Logitech Logitech MX Mechanical Mini](https://www.amazon.com/Logitech-Mechanical-Illuminated-Performance-Bluetooth/dp/B09LJTPXCF?th=1)
 - [Logitech MX Master 3s for Mac](https://amzn.to/3WD0Yn0)
